@@ -67,6 +67,7 @@ Visit the deployed version here (if applicable):
 - **Employee Login**:
   - Username: `employe1@me.com`
   - Password: `123`
+ 
+### Contact
+If you have any questions or suggestions, feel free to reach out to me on GitHub at Aditya1or0.
 
-
----
