@@ -55,8 +55,7 @@ Follow these steps to set up the project locally:
 
 ### Demo
 
-Visit the deployed version here (if applicable):
-- **Demo URL**: [insert your deployed link here]
+- **Demo URL**: []
 
 ## Login Credentials
 
