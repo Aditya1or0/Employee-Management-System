@@ -55,7 +55,7 @@ Follow these steps to set up the project locally:
 
 ### Demo
 
-- **Demo URL**: []
+- **Demo URL**: [https://employee-management-system-ot4g4j2e5.vercel.app/]
 
 ## Login Credentials
 
